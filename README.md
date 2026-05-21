@@ -80,6 +80,8 @@ DT = 0.0022
 ```
 KD=1的实验展示
 <img width="480" height="341" alt="F4ZpmwHQ_converted" src="https://github.com/user-attachments/assets/9a2f1721-07a6-4d6f-b764-5f862dd9bd4d" />
+
+
 KD=5的实验展示
 <img width="480" height="340" alt="tDKB7HYv_converted" src="https://github.com/user-attachments/assets/1736189a-2e6e-448e-966a-4058457de8c1" />
 
